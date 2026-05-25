@@ -1,5 +1,7 @@
 # Allo Inventory Management System
+# Live Demo
 
+[View Live Application](https://your-vercel-url.vercel.app)
 ## Overview
 
 Allo Inventory Management System is a full-stack enterprise-style inventory management application built using Next.js, Supabase, TypeScript, and Tailwind CSS.
