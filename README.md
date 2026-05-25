@@ -321,6 +321,6 @@ The application is deployed using:
 
 ---
 
-# Author
+# Radha Gohil
 
 Developed as a full-stack inventory management assignment project using Next.js and Supabase.
